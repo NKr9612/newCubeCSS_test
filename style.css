@@ -75,28 +75,28 @@ body {
 
 .cube__face--front {
   transform: rotateY(0deg) translateZ(200px);
-  background-image: url("jarritos-mexican-soda-ap2SuhOb3K8-unsplash.jpg");
+  background-image: url("avenue-815297_640.jpg");
   background-position: center;
   background-size: 400px 400px;
   background-repeat: no-repeat;
 }
 .cube__face--right {
   transform: rotateY(90deg) translateZ(200px);
-  background-image: url("derek-lee-zpuMamh11-U-unsplash.jpg");
+  background-image: url("book-863418_640.jpg");
   background-position: center;
   background-size: 400px 400px;
   background-repeat: no-repeat;
 }
 .cube__face--back {
   transform: rotateY(180deg) translateZ(200px);
-  background-image: url("ben-iwara-4DjvOnZBkXA-unsplash.jpg");
+  background-image: url("forest-931706_640.jpg");
   background-position: center;
   background-size: 400px 400px;
   background-repeat: no-repeat;
 }
 .cube__face--left {
   transform: rotateY(-90deg) translateZ(200px);
-  background-image: url("steven-lozano-nvooTrgEj7c-unsplash.jpg");
+  background-image: url("tree-736885_640.jpg");
   background-position: center;
   background-size: 400px 400px;
   background-repeat: no-repeat;
